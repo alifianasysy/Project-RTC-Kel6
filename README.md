@@ -1,6 +1,6 @@
 **🔥 Selamat datang di proyek Fire Detection!**
 
-Repository ini berisi implementasi berbagai model pembelajaran mesin (Machine Learning/ML) yang dirancang untuk mendeteksi potensi kebakaran berdasarkan data sensor (Temperatur, Kelembapan, MQ3, MQ135). Program ini menggunakan metode Support Vector Machine (SVM), k-Nearest Neighbors (KNN), dan Neural Networks (NN) yang dikembangkan dengan menggunakan bahasa pemrograman RUST, yang dikenal karena performanya yang tinggi dalam pengolahan data.
+Repository ini berisi implementasi berbagai model pembelajaran mesin (Machine Learning/ML) yang dirancang untuk mendeteksi potensi kebakaran berdasarkan data sensor (Temperatur, Kelembapan, MQ3, MQ135). Program ini menggunakan beberapa metode yaitu, Support Vector Machine (SVM), k-Nearest Neighbors (KNN), dan Neural Networks (NN). Model ini dikembangkan dengan menggunakan bahasa pemrograman RUST, yang dikenal karena performanya yang tinggi dalam pengolahan data.
 
 **🚒 Penjelasan File:**
 
