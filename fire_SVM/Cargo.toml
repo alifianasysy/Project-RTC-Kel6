@@ -1,0 +1,10 @@
+[package]
+name = "fire_SVM"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+csv = "1.3"
+smartcore = "0.4.0"
+plotters = "0.3"
+rand = "0.8"
