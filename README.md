@@ -155,13 +155,13 @@ Berisi program untuk perhitungan Deret Taylor dan Lookup Table menggunakan Rust.
 # 🧭 Saran Alur Belajar
 **📌 Jika kamu baru di Rust atau AI, ikuti urutan ini untuk hasil maksimal:**
 
-1. Mulai dari file trigonmetri (Deret Taylor & Lookup Table) untuk dasar numerik
+1. Mulai dari file **trigonmetri** (Deret Taylor & Lookup Table) untuk dasar numerik
 
-2. Pelajari SVM & KNN pada file fire_svm untuk dasar ML.
+2. Pelajari SVM & KNN pada file **fire_svm** untuk dasar ML.
 
-3. Eksplorasi file fire_detection_nn  untuk Neural Network.
+3. Eksplorasi file **fire_detection_nn**  untuk Neural Network.
 
-4. Tutup dengan file fire_detection untuk integrasi GUI!
+4. Tutup dengan file **fire_detection** untuk integrasi GUI!
 
 
 # 🌟 Fitur Utama:
