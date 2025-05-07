@@ -131,7 +131,7 @@ Berisi program untuk perhitungan Deret Taylor dan Lookup Table menggunakan Rust.
 
 2. Uji dengan berbagai input x dan jumlah iterasi n.
 
-3. deret_taylor.rs.
+3. Simpan sebagai deret_taylor.rs.
    
 **Lookup Table**.
 
