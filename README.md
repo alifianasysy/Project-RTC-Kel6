@@ -1,22 +1,76 @@
-**🔥 Selamat datang di proyek Fire Detection!**
+# 🔥 SELAMAT DATANG DI PROYEK FIRE DETECTION!
 
 **SUPERVISOR : Ahmad Radhy, S.Si., M.Si**
+
 **KELOMPOK 6 DEPARTEMEN TEKNIK INSTRUMENTASI - INSTITUT TEKNOLOGI SEPULUH NOPEMBER** 
+
 **1. Alifian Asy Syifa (2042221137)**
+
 **2. Rany Cahya Wijaya (2042221086)**
+
 **3. Sherli Oktavianita (2042221101)**
 
 Repository ini berisi implementasi berbagai model pembelajaran mesin (Machine Learning/ML) yang dirancang untuk mendeteksi potensi kebakaran berdasarkan data sensor (Temperatur, Kelembapan, MQ3, MQ135). Program ini menggunakan beberapa metode yaitu, Support Vector Machine (SVM), k-Nearest Neighbors (KNN), dan Neural Networks (NN). Model ini dikembangkan dengan menggunakan bahasa pemrograman RUST, yang dikenal karena performanya yang tinggi dalam pengolahan data.
 
-**🚒 Penjelasan File:**
+# 📁 Daftar File, Deskripsi, dan Tata Cara Pembuatan
 
-**fire_detection**: Berisi program berbasis Neural Network (NN) untuk Fire Detection yang sudah terintegrasi dengan interface QT.
+# fire_detection
+Berisi program berbasis Neural Network (NN) untuk Fire Detection yang sudah terintegrasi dengan interface QT.
 
-**fire_detection_nn**: Berisi program Neural Network (NN) untuk Fire Detection tanpa menggunakan antarmuka grafis (interface).
+**📋 Langkah-Langkah:**
 
-**fire_SVM**: Berisi implementasi Machine Learning menggunakan Support Vector Machine (SVM) dan k-Nearest Neighbors (KNN) untuk Fire Detection. 
+1. Tulis logika backend di Rust.
 
-**trigonometri**: Berisi program untuk perhitungan Deret Taylor dan Lookup Table menggunakan Rust. Program ini digunakan untuk perhitungan matematis yang efisien dan cepat, yang berguna dalam aplikasi yang memerlukan perhitungan trigonometrik yang cepat.
+2. Hubungkan dengan antarmuka GUI berbasis Qt melalui Python.
+
+3. Simpan sebagai fire_detection.rs.
+
+**⚙️ Dependensi:**
+
+1. Rust & Cargo
+
+2. Python
+
+3. PyQt5 (Instal via pip: pip install pyqt5)
+
+**▶️ Cara Menjalankan:**
+
+1. cargo build --release
+
+2. Python qt_frontend.py
+
+# fire_detection_nn 
+Berisi program Neural Network (NN) untuk Fire Detection tanpa menggunakan antarmuka grafis (interface).
+
+**📋 Langkah-Langkah:**
+
+1. Tulis logika backend di Rust.
+
+2. Hubungkan dengan antarmuka GUI berbasis Qt melalui Python.
+
+3. Simpan sebagai fire_detection.rs.
+
+**⚙️ Dependensi:**
+
+1. Rust & Cargo
+
+2. Python
+
+3. PyQt5 (Instal via pip: pip install pyqt5)
+
+**▶️ Cara Menjalankan:**
+
+1. cargo build --release
+
+2. Python qt_frontend.py
+
+# fire_SVM
+Berisi implementasi Machine Learning menggunakan Support Vector Machine (SVM) dan k-Nearest Neighbors (KNN) untuk Fire Detection. 
+
+# trigonometri
+Berisi program untuk perhitungan Deret Taylor dan Lookup Table menggunakan Rust. Program ini digunakan untuk perhitungan matematis yang efisien dan cepat, yang berguna dalam aplikasi yang memerlukan perhitungan trigonometrik yang cepat.
+
+
 
 **🌟 Fitur Utama:**
 
